@@ -7,8 +7,8 @@ Looking to build:
 * Tools to crawl and report on public star files
 * Stuff to easily publish star files
 
-## What is star? ## 
-(Star)[https://github.com/tarr11/star] is a file format for storing bookmarks.  
+## What is star? ##
+[Star](https://github.com/tarr11/star) is a file format for storing bookmarks.  
 
 
 
